@@ -1,0 +1,7 @@
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\testCases\BaseClass.class
+com\inetbanking\utilities\XLUtils.class
+test\runner\TestRunner.class
+com\inetbanking\utilities\ReadConfig.class
+StepDefinitions\LoginSteps.class
+com\inetbanking\utilities\Reporting.class
